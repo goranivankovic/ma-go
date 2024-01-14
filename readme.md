@@ -13,7 +13,7 @@ Mi radimo implementacije informacionih sistema, migracije postojećeg softvera i
 </div>
 <a href="https://ma-go.net/" target="_blank">ma-go.net</a>
 
-<h2>TMS - TIME MANAGEMENT SYSTEM</h2>
+<h2>TMS - TIME MANAGEMENT SYSTEM (SASS)</h2>
 
 <div>TMS je dizajniran da ponudi intuitivan alat za kompanije sa proizvodnjom</div>
 <div>

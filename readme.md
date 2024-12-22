@@ -11,7 +11,7 @@ MAGO je IT kompanija dizajnirana da predstavlja izuzetni kvalitet u razvoju soft
 <div>
 Mi radimo implementacije informacionih sistema, migracije postojećeg softvera i razvoj bilo kakvih rešenja za web platformu.
 </div>
-<a href="https://ma-go.org/" target="_blank">ma-go.net</a>
+<a href="https://ma-go.org/" target="_blank">ma-go.org</a>
 
 <h2>TMS - TIME MANAGEMENT SYSTEM (SASS) </h2>
 

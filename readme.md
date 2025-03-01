@@ -1,7 +1,7 @@
 
 
 
-<h1>ma-go.net</h1>
+<h1>ma-go.org</h1>
 
 
 <div>
